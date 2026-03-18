@@ -29,7 +29,10 @@ Thumbs.db
 *.mp4
 *.jpeg
 *.jpg
-*.png
+
+# Allow screenshots folder
+!screenshots/
+!screenshots/*.png
 
 # Gemini
 .gemini/

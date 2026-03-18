@@ -208,8 +208,8 @@ resume-ranker-pro/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/resume-ranker-pro.git
-cd resume-ranker-pro
+git clone https://github.com/code-with-vishnu26/resume-ranker.git
+cd resume-ranker
 
 # 2. Install dependencies
 pip install -r requirements.txt
