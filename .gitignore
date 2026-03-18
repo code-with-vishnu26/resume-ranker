@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Media files (large)
+*.mp4
+*.jpeg
+*.jpg
+*.png
+
+# Gemini
+.gemini/

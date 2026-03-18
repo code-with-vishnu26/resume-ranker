@@ -1,0 +1,15 @@
+streamlit
+pandas
+PyPDF2
+scikit-learn
+numpy
+requests
+python-dotenv
+google-generativeai
+plotly
+python-docx
+openpyxl
+xlsxwriter
+deep-translator
+beautifulsoup4
+fpdf2
